@@ -10,10 +10,10 @@
  similarities from previously submitted version.You will be noticed and punished.
  
  upvotes.cpp
- Quora_Challenge_Upvotes
+ Quora_challenge_upvotes
  
- Created by Sami Badra on 5/16/15.
- Copyright (c) 2015 Sami Badra. All rights reserved.
+ Prompt description found at www.quora.com/challenges
+ Challenge Title: Upvotes
  */
 
 #include <iostream>
