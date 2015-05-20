@@ -27,7 +27,6 @@ Constraints:
 
 Input Format:
 Line 1: Two integers, N and K
-
 Line 2: N positive integers of upvote counts, each integer less than or equal to 109.
 
 
